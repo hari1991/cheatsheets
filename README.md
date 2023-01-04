@@ -1,5 +1,5 @@
-# cheatsheets
-A collection of cheatsheets
+# Cheatsheets
+A collection of web-development cheatsheets
 
 # Programming Languages
 1. Java
